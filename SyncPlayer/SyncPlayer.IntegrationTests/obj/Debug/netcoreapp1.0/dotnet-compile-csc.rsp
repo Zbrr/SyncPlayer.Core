@@ -7,9 +7,9 @@
 -debug:full
 -nostdlib
 -nologo
-"E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\bin\Debug\netcoreapp1.0\SyncPlayer.IntegrationTests.dll"
--r:"C:\Users\Bogdan\.nuget\packages\Dropbox.Api\3.4.0\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Dropbox.Api.dll"
+"E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\bin\Debug\netcoreapp1.0\SyncPlayer.IntegrationTests.dll"
+-r:"C:\Users\Bogdan\.nuget\packages\Dropbox.Api\3.6.0\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Dropbox.Api.dll"
 -r:"C:\Users\Bogdan\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\Bogdan\.nuget\packages\Microsoft.VisualBasic\10.0.1\ref\netstandard1.1\Microsoft.VisualBasic.dll"
 -r:"C:\Users\Bogdan\.nuget\packages\Microsoft.Win32.Primitives\4.0.1\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
@@ -85,8 +85,8 @@
 -r:"C:\Users\Bogdan\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\Bogdan\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Bogdan\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
--r:"E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\bin\Debug\netstandard1.6\SyncPlayer.Common.dll"
--r:"E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\bin\Debug\netstandard1.6\SyncPlayer.Domain.dll"
--r:"E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\bin\Debug\netstandard1.6\SyncPlayer.Dropbox.dll"
-"E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\Program.cs"
-"E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\Properties\AssemblyInfo.cs"
+-r:"E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\bin\Debug\netstandard1.6\SyncPlayer.Common.dll"
+-r:"E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\bin\Debug\netstandard1.6\SyncPlayer.Domain.dll"
+-r:"E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\bin\Debug\netstandard1.6\SyncPlayer.Dropbox.dll"
+"E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\Program.cs"
+"E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\Properties\AssemblyInfo.cs"

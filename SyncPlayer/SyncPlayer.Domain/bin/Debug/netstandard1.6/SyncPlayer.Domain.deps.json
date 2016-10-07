@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v1.6/",
-    "signature": "7d0124ee5962571fd5af13e8512380270f0db97e"
+    "signature": "2b03deb5b24df55e722250f16260652fefd3cb34"
   },
   "compilationOptions": {},
   "targets": {
@@ -17,7 +17,7 @@
           "SyncPlayer.Domain.dll": {}
         }
       },
-      "Dropbox.Api/3.4.0": {
+      "Dropbox.Api/3.6.0": {
         "dependencies": {
           "Newtonsoft.Json": "7.0.1"
         },
@@ -749,7 +749,7 @@
       "SyncPlayer.Dropbox/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "1.6.0",
-          "Dropbox.Api": "3.4.0",
+          "Dropbox.Api": "3.6.0",
           "SyncPlayer.Common": "1.0.0"
         },
         "runtime": {
@@ -764,10 +764,10 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Dropbox.Api/3.4.0": {
+    "Dropbox.Api/3.6.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-UorVumJ1re4gZ7HQDBYFy1kYR9Sw9aocwxKksccERrkIaedg5Wlo30aZdxnAe7jzqottJDrYnibirWzQv8poLQ=="
+      "sha512": "sha512-sX0yFIco7OjTXUBExPEqku27fZm1ZqpN1XEuOxc4wo+v1J1rUD5/MCPvFVBnwbyknEjM3Ilr9/4xoEI3zIydhQ=="
     },
     "Microsoft.NETCore.Platforms/1.0.1": {
       "type": "package",

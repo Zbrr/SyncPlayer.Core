@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.0",
-    "signature": "85a3d0569ad0869802213d21ee3bf6ca16a9f596"
+    "signature": "7773c50e4dd6ec2f4f4b4c4bdf33954e1177f551"
   },
   "compilationOptions": {},
   "targets": {
@@ -17,7 +17,7 @@
           "SyncPlayer.IntegrationTests.dll": {}
         }
       },
-      "Dropbox.Api/3.4.0": {
+      "Dropbox.Api/3.6.0": {
         "dependencies": {
           "Newtonsoft.Json": "7.0.1"
         },
@@ -51,7 +51,7 @@
       },
       "SyncPlayer.Dropbox/1.0.0": {
         "dependencies": {
-          "Dropbox.Api": "3.4.0",
+          "Dropbox.Api": "3.6.0",
           "SyncPlayer.Common": "1.0.0"
         },
         "runtime": {
@@ -66,10 +66,10 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Dropbox.Api/3.4.0": {
+    "Dropbox.Api/3.6.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-UorVumJ1re4gZ7HQDBYFy1kYR9Sw9aocwxKksccERrkIaedg5Wlo30aZdxnAe7jzqottJDrYnibirWzQv8poLQ=="
+      "sha512": "sha512-sX0yFIco7OjTXUBExPEqku27fZm1ZqpN1XEuOxc4wo+v1J1rUD5/MCPvFVBnwbyknEjM3Ilr9/4xoEI3zIydhQ=="
     },
     "Newtonsoft.Json/7.0.1": {
       "type": "package",

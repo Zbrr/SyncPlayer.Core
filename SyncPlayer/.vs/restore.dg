@@ -1,13 +1,13 @@
-#:E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj|E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\SyncPlayer.Common.xproj
-#:E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\SyncPlayer.Domain.xproj
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\SyncPlayer.Domain.xproj|E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\SyncPlayer.Common.xproj
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\SyncPlayer.Domain.xproj|E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj|E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\SyncPlayer.Common.xproj
-#:E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\SyncPlayer.IntegrationTests.xproj
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\SyncPlayer.IntegrationTests.xproj|E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\SyncPlayer.Common.xproj
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\SyncPlayer.IntegrationTests.xproj|E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\SyncPlayer.Domain.xproj
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\SyncPlayer.IntegrationTests.xproj|E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\SyncPlayer.Domain.xproj|E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\SyncPlayer.Common.xproj
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\SyncPlayer.Domain.xproj|E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj|E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\SyncPlayer.Common.xproj
+#:E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj|E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\SyncPlayer.Common.xproj
+#:E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\SyncPlayer.Domain.xproj
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\SyncPlayer.Domain.xproj|E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\SyncPlayer.Common.xproj
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\SyncPlayer.Domain.xproj|E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj|E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\SyncPlayer.Common.xproj
+#:E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\SyncPlayer.IntegrationTests.xproj
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\SyncPlayer.IntegrationTests.xproj|E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\SyncPlayer.Common.xproj
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\SyncPlayer.IntegrationTests.xproj|E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\SyncPlayer.Domain.xproj
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.IntegrationTests\SyncPlayer.IntegrationTests.xproj|E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\SyncPlayer.Domain.xproj|E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\SyncPlayer.Common.xproj
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Domain\SyncPlayer.Domain.xproj|E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Dropbox\SyncPlayer.Dropbox.xproj|E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\SyncPlayer.Common.xproj

@@ -1,5 +1,5 @@
---temp-output:E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\obj\Debug\netstandard1.6\
---out:E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\bin\Debug\netstandard1.6\SyncPlayer.Common.dll
+--temp-output:E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\obj\Debug\netstandard1.6\
+--out:E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\bin\Debug\netstandard1.6\SyncPlayer.Common.dll
 --define:DEBUG
 --define:TRACE
 --define:NETSTANDARD1_6
@@ -55,14 +55,14 @@
 --reference:C:\Users\Bogdan\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Bogdan\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Bogdan\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\AudioFileDtoBuilder.cs
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\ValidationData.cs
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Contracts\IFileFinderFacade.cs
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Contracts\IFileFinderService.cs
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Contracts\IFileMappingService.cs
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Contracts\IFileValidationRule.cs
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Contracts\IFileValidationService.cs
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\DTOs\AudioFileDto.cs
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Enums\AudioFileFormat.cs
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Enums\AudioFileSource.cs
-E:\Projects\Local Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Properties\AssemblyInfo.cs
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\AudioFileDtoBuilder.cs
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\ValidationData.cs
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Contracts\IFileFinderFacade.cs
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Contracts\IFileFinderService.cs
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Contracts\IFileMappingService.cs
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Contracts\IFileValidationRule.cs
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Contracts\IFileValidationService.cs
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\DTOs\AudioFileDto.cs
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Enums\AudioFileFormat.cs
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Enums\AudioFileSource.cs
+E:\Me\Projects\SyncPlayer.Core\SyncPlayer\SyncPlayer.Common\Properties\AssemblyInfo.cs
