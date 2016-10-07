@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.0",
+    "signature": "85a3d0569ad0869802213d21ee3bf6ca16a9f596"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.0": {
+      "SyncPlayer.IntegrationTests/1.0.0": {
+        "dependencies": {
+          "SyncPlayer.Common": "1.0.0",
+          "SyncPlayer.Domain": "1.0.0",
+          "SyncPlayer.Dropbox": "1.0.0",
+          "System.Runtime.Serialization.Primitives": "4.1.1-rc2-24027"
+        },
+        "runtime": {
+          "SyncPlayer.IntegrationTests.dll": {}
+        }
+      },
+      "Dropbox.Api/3.4.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "7.0.1"
+        },
+        "runtime": {
+          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Dropbox.Api.dll": {}
+        }
+      },
+      "Newtonsoft.Json/7.0.1": {
+        "runtime": {
+          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
+        }
+      },
+      "System.Runtime.Serialization.Primitives/4.1.1-rc2-24027": {
+        "runtime": {
+          "lib/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {}
+        }
+      },
+      "SyncPlayer.Common/1.0.0": {
+        "runtime": {
+          "SyncPlayer.Common.dll": {}
+        }
+      },
+      "SyncPlayer.Domain/1.0.0": {
+        "dependencies": {
+          "SyncPlayer.Common": "1.0.0",
+          "SyncPlayer.Dropbox": "1.0.0"
+        },
+        "runtime": {
+          "SyncPlayer.Domain.dll": {}
+        }
+      },
+      "SyncPlayer.Dropbox/1.0.0": {
+        "dependencies": {
+          "Dropbox.Api": "3.4.0",
+          "SyncPlayer.Common": "1.0.0"
+        },
+        "runtime": {
+          "SyncPlayer.Dropbox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SyncPlayer.IntegrationTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dropbox.Api/3.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UorVumJ1re4gZ7HQDBYFy1kYR9Sw9aocwxKksccERrkIaedg5Wlo30aZdxnAe7jzqottJDrYnibirWzQv8poLQ=="
+    },
+    "Newtonsoft.Json/7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q3V4KLetMLnt1gpAVWgtXnHjKs0UG/RalBc29u2ZKxd5t5Ze4JBL5WiiYIklJyK/5CRiIiNwigVQUo0FgbsuWA=="
+    },
+    "System.Runtime.Serialization.Primitives/4.1.1-rc2-24027": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CatEVkKtMZlBrsdboi2RNediIXkYaiKtseORboHASI96mYtlPvivmHr/nw+pKx7s7enaFvs5Ovfbc8uXs5Qt7Q=="
+    },
+    "SyncPlayer.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SyncPlayer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SyncPlayer.Dropbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
