@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "scripts": {
+    "build": "webpack --progress",
+    "postinstall": "typings install"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.3",
+    "typings": "^1.4.0",
+    "webpack": "1.13.2",
+    "ts-loader": "0.8.2",
+    "css-loader": "0.25.0",
+    "style-loader": "0.13.1",
+    "url-loader": "0.5.7"
+  },
+  "dependencies": {}
+}
