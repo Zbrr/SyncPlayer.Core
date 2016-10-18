@@ -45,6 +45,7 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	__webpack_require__(2);
+	__webpack_require__(11);
 	var IndexClass = (function () {
 	    function IndexClass() {
 	    }
@@ -435,6 +436,12 @@
 			URL.revokeObjectURL(oldSrc);
 	}
 
+
+/***/ },
+/* 11 */
+/***/ function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
 
 /***/ }
 /******/ ]);

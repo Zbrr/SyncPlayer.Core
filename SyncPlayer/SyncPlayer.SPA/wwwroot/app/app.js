@@ -1,3 +1,5 @@
+require("./../lib/bootstrap/dist/css/bootstrap.css");
+require("./layout.scss");
 var IndexClass = (function () {
     function IndexClass() {
     }

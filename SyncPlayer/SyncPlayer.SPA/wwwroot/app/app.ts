@@ -1,5 +1,6 @@
 ﻿
 require("./../lib/bootstrap/dist/css/bootstrap.css")
+require("./layout.scss");
 
 class IndexClass {
     writeSomething() {
